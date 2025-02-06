@@ -2,7 +2,10 @@
 
 ## Videos
 
-<a href="{Fuzzy.mp4}" title="Fuzzy Logic System"><img src="{Fuzzy.mp4}" alt="Fuzzy Logic System" /></a>
+<video width="320" height="240" controls>
+  <source src="Fuzzy.mp4" type="video/mp4">
+</video>
+
 
 [![Reinforcement Learning](RL.mp4)](RL.mp4)
 
