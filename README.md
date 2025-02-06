@@ -2,7 +2,7 @@
 
 ## Videos
 
-[![Fuzzy Logic System](Fuzzy.mp4)](Fuzzy.mp4)
+<a href="{Fuzzy.mp4}" title="Fuzzy Logic System"><img src="{Fuzzy.mp4}" alt="Fuzzy Logic System" /></a>
 
 [![Reinforcement Learning](RL.mp4)](RL.mp4)
 
