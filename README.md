@@ -16,8 +16,8 @@ https://github.com/user-attachments/assets/60cd3e72-d130-4e81-a157-79d0cfc8bbc7
 This project explores the implementation of a **Deep Q-Network (DQN)** for solving the classic **Mountain Car problem** and subsequently designing a **Fuzzy Logic System (FLS)** based on the trained DQN model. The goal is to train an agent to control a car climbing a mountain efficiently by maximizing cumulative rewards.
 
 ## Authors
-- **Mohammad Mehdi Moazedi** - 9927863
-- **Mohammad Reza Shirdoust** - 9930473
+- **Mohammad Mehdi Moazedi**
+- **Mohammad Reza Shirdoust**
 - **Date**: February 2025
 
 ---
