@@ -17,7 +17,7 @@ This project explores the implementation of a **Deep Q-Network (DQN)** for solvi
 
 ## Authors
 - **Mohammad Mehdi Moazedi**
-- **Mohammad Reza Shirdoust**
+- **Mohammad Reza Shirdoost**
 - **Date**: February 2025
 
 ---
