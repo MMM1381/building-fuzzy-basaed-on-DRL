@@ -3,7 +3,14 @@
 ## Videos
 
 
-[![Reinforcement Learning](https://github.com/MMM1381/building-fuzzy-basaed-on-RL/edit/main/RL.mp4)](https://github.com/MMM1381/building-fuzzy-basaed-on-RL/edit/main/RL.mp4)
+
+https://github.com/user-attachments/assets/dda656a4-7e15-4bb0-b759-b899251806df
+
+
+
+https://github.com/user-attachments/assets/60cd3e72-d130-4e81-a157-79d0cfc8bbc7
+
+
 
 ## Overview
 This project explores the implementation of a **Deep Q-Network (DQN)** for solving the classic **Mountain Car problem** and subsequently designing a **Fuzzy Logic System (FLS)** based on the trained DQN model. The goal is to train an agent to control a car climbing a mountain efficiently by maximizing cumulative rewards.
