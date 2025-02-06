@@ -1,7 +1,9 @@
 # Mountain Car Control Using Deep Q-Network and Fuzzy Logic
 
 ## Videos
-[![Fuzzy Logic System](Fuzzy.mp4)](Fuzzy.mp4)  
+
+[![Fuzzy Logic System](Fuzzy.mp4)](Fuzzy.mp4)
+
 [![Reinforcement Learning](RL.mp4)](RL.mp4)
 
 ## Overview
