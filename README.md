@@ -6,7 +6,7 @@
 
 ![Fuzzy-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5e2edc59-5c7a-4224-b17a-353115d5bfa0)
 
-### RL:
+### DRL:
 
 ![RL-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6699c172-8acc-435c-8d8c-ec3466584491)
 
